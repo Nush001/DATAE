@@ -1,4 +1,4 @@
-#Sorting Visualization Project
+# Sorting Visualization Project
 
 ## Overview
 This project provides a visual representation of two classic sorting algorithms: Selection Sort and Bubble Sort. Using Pygame, it creates a graphical interface where you can observe how these algorithms sort an array of bars, with real-time updates and customizable sorting durations.
