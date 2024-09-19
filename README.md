@@ -36,7 +36,7 @@ Updates the display and manages sorting timing with a limit.
 Contribution
 Feel free to fork this repository and submit pull requests with improvements or bug fixes. Please ensure your code adheres to the existing style and includes appropriate comments.
 
-# Sorting and Bubbling Videos: 
+# Selection Sort and Bubble Sort Videos: 
 
 https://github.com/user-attachments/assets/1b93c335-7ead-4f5a-b818-e8be2fb264be
 
