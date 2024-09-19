@@ -7,29 +7,6 @@ This project provides a visual representation of two classic sorting algorithms:
 Sorting Algorithms: Visualizes Selection Sort and Bubble Sort.
 Interactive Controls: Allows users to start sorting, generate new arrays, and quit the program.
 Performance Monitoring: Includes a time limit for sorting to prevent indefinite runs.
-Installation
-To run this project, ensure you have Python and Pygame installed. You can install the required Python library using pip:
-
-bash
-Copy code
-pip install pygame
-Usage
-Clone the Repository:
-
-bash
-Copy code
-git clone https://github.com/yourusername/sorting-visualization.git
-Navigate to the Project Directory:
-
-bash
-Copy code
-cd sorting-visualization
-Run the Script:
-
-bash
-Copy code
-python sort_visualization.py
-Replace sort_visualization.py with the filename of your script if different.
 
 ## Controls:
 
